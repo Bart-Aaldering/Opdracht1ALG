@@ -30,7 +30,6 @@ class Zet
     int i,  // nummer van de steen
         r,  // rotatie
         rij, kolom;  // vakje op het bord
-
 };
 
 #endif
